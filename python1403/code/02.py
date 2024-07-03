@@ -18,8 +18,8 @@
 #opertaion on float
 
 #operation on string  -> sum,format string,index of string
-name="mahdi"
-family="ramezani"
+# name="mahdi"
+# family="ramezani"
 # full_name=name +" "+ family
 # print(full_name)
 # full_name=f"Hello {name} {family}"
@@ -93,9 +93,11 @@ if (operator =="+"):
     print(f"{number_1} + {number_2} = {sum_number}")
 
 elif (operator == "-"):
+    
     print(f"{number_2} - {number_1} = {number_2-number_1}")
 
 elif (operator == "*"):
+
     print(f"{number_1} * {number_2} = {number_1 * number_2}")
 
 elif (operator == "**"):
