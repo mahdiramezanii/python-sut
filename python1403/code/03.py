@@ -123,5 +123,4 @@ print(user_list)
 # print(user_list)
 
 
-#string and list method
-#List Comprehensions
+
